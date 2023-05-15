@@ -10,17 +10,17 @@ terraform {
     bucket     = "tf-state-bucket-mentor"
     region     = "ru-central1-a"
     key        = "issue1/lemp.tfstate"
-    access_key = "YCAJEXUIA2C7m0vBy-DGK_GM4"
-    secret_key = "YCNoc7kDI7qz8PPUF6NxldimwiQEZlsBgF7F5VmW"
+    access_key = ""
+    secret_key = ""
 
     skip_region_validation      = true
     skip_credentials_validation = true
   }
 }
 provider "yandex" {
-  token     = "y0_AgAAAABkpk0NAATuwQAAAADSwkfOmQ835bV7TKqjVbXe1ht1599AzVs"
-  cloud_id  = "b1gfqsibs2oth9v8tqp5"
-  folder_id = "b1gt036erts2va4jvqeq"
+  token     = ""
+  cloud_id  = ""
+  folder_id = ""
   zone      = "ru-central1-a"
 }
 
