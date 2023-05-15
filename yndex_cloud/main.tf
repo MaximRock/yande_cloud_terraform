@@ -68,9 +68,9 @@ module "ya_instance_2" {
 #  }
 #}
 #provider "yandex" {
-#  token     = "y0_AgAAAABkpk0NAATuwQAAAADSwkfOmQ835bV7TKqjVbXe1ht1599AzVs"
-#  cloud_id  = "b1gfqsibs2oth9v8tqp5"
-#  folder_id = "b1gt036erts2va4jvqeq"
+#  token     = ""
+#  cloud_id  = ""
+#  folder_id = ""
 #  zone      = "ru-central1-a"
 #}
 #
